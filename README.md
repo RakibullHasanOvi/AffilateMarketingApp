@@ -7,7 +7,7 @@ This is a one kind of learnign application for those person who want to learn af
 
 <p align= "center">
 <img src = "https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/1505251f-daa6-469a-b510-8d40c1426f61.png" width = "200" height ="400"/>
-<img src = "https://github.com/user-attachments/assets/63429557/9b557ec6-7a0c-492d-bd7c-8a1d7e7e5ae6.png" width = "200" height ="400"/>
+<img src = "https://github.com/user-attachments/assets/9b557ec6-7a0c-492d-bd7c-8a1d7e7e5ae6.png" width = "200" height ="400"/>
 </p>
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-20 at 21 31 04](https://github.com/user-attachments/assets/c41ad5ea-f5c2-43fc-b0fa-4a9b11237ce1)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-20 at 21 30 59](https://github.com/user-attachments/assets/104460d7-5d20-45ea-9e18-fc47375479ad)
