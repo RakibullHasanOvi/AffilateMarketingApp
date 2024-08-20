@@ -8,7 +8,7 @@ This is a one kind of learnign application for those person who want to learn af
 2. Video player
 3. Image picker
 4. Text copy when click the copy icon.
-5. flutter_screenutil (Responsive for all device)
+5. flutter_screenutil (Responsive for all device).
 
 ## ScreenShorts
 
