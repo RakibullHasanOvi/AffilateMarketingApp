@@ -6,7 +6,7 @@ This is a one kind of learnign application for those person who want to learn af
 
 <p align= "center">
 <img src = "https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/1505251f-daa6-469a-b510-8d40c1426f61.png" width = "200" height ="400"/>
-<img src = "https://github.com/user-attachments/assets/0f78c83f-30ba-4961-a2b0-7e71067e952b.png" width = "200" height ="400"/>
+<img src = "https://github.com/user-attachments/assets/0f78c83f-30ba-4961-a2b0-7e71067e952b.jpg" width = "200" height ="400"/>
 </p>
 ![Screenshot_2024-06-30-12-12-25-18_76e310f6e96b385463e802ef230b04c2](https://github.com/user-attachments/assets/4849b9e4-71c5-41f8-9263-ab2aec6973e1)
 ![Screenshot_2024-06-30-12-12-17-34_76e310f6e96b385463e802ef230b04c2](https://github.com/user-attachments/assets/ec6b192e-9b7a-4212-ab5a-305b5131eec6)
